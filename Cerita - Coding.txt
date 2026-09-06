@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Cerita Fabel Semut dan Burung Merpati</title>
+    </head>
+    <body>
+        <h1 stye="text-align: center;">Semut dan Burung Merpati</h1>
+        <p stye="text-align: center;">Suatu hari, seekor semut yang kehausan terjatuh ke dalam sungai dan hampir tenggelam karena kehabisan tenaga. Melihat kejadian itu, seekor burung merpati yang baik hati segera menjatuhkan sehelai daun ke air agar semut bisa naik ke atasnya dan selamat. Semut pun berterima kasih kepada merpati atas pertolongan yang menyelamatkan nyawanya tersebut.</p>
+        <p stye="text-align: center;">Beberapa hari kemudian, keadaan berbalik ketika seekor pemburu datang dan mengincar burung merpati dengan senapannya. Semut yang melihat bahaya itu langsung berlari cepat dan menggigit kaki sang pemburu hingga kesakitan. Tembakan pemburu meleset, membuat merpati terbang menjauh dan keduanya pun selamat karena saling menolong.</p>
+    </body>
+    </html>
